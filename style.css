@@ -1,0 +1,43 @@
+   body {
+      font-family: sans-serif;
+      text-align: center;
+      margin-top: 200px;
+      background-color: skyblue;
+    }
+
+    h1 {  
+      color: cyan;
+        max-width: 100%;
+        padding:20px;
+        border: 5px solid purple;
+        background-color: blanchedalmond;
+    }
+    
+
+    #counter {
+      font-size: 5em;
+      margin: 20px 0;
+    }
+
+    button {
+      padding: 10px 20px;
+      font-size: 50px;
+      border: 5px solid whitesmoke;
+      background-color: #007bff;
+      color: white;
+      border-radius: 100px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #0056b3;
+    }
+
+      reset-button {
+      background-color: #dc3545;
+    }
+
+    reset-button:hover {
+      background-color: #a71d2a;
+    }
+     
